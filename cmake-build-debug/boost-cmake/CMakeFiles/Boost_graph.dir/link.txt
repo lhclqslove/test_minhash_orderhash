@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboost_graph.a  CMakeFiles/Boost_graph.dir/__/_deps/boost-src/libs/graph/src/graphml.cpp.o CMakeFiles/Boost_graph.dir/__/_deps/boost-src/libs/graph/src/read_graphviz_new.cpp.o
+/usr/bin/ranlib libboost_graph.a
