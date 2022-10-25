@@ -1,0 +1,2 @@
+/usr/bin/ar qc libboost_system.a  CMakeFiles/Boost_system.dir/__/_deps/boost-src/libs/system/src/error_code.cpp.o
+/usr/bin/ranlib libboost_system.a

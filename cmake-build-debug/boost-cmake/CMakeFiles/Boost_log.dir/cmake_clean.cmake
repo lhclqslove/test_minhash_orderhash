@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/attribute_name.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/attribute_set.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/attribute_value_set.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/code_conversion.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/core.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/record_ostream.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/severity_level.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/global_logger_storage.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/named_scope.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/process_name.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/process_id.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/thread_id.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/timer.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/exceptions.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/default_attribute_names.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/default_sink.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/text_ostream_backend.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/text_file_backend.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/text_multifile_backend.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/thread_specific.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/once_block.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/timestamp.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/threadsafe_queue.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/event.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/trivial.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/spirit_encoding.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/format_parser.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/date_time_format_parser.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/named_scope_format_parser.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/permissions.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/dump.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/posix/object_name.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/posix/ipc_reliable_message_queue.cpp.o"
+  "CMakeFiles/Boost_log.dir/__/_deps/boost-src/libs/log/src/syslog_backend.cpp.o"
+  "libboost_log.pdb"
+  "libboost_log.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/Boost_log.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
